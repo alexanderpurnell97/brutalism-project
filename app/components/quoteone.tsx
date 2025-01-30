@@ -6,7 +6,7 @@ export default function QuoteOne() {
         <div className="overflow-x-auto h-screen w-[2500px] block">
                 <div className="w-auto">
                     <CldImage
-                        src="https://res.cloudinary.com/ddwodwpr5/image/upload/v1738170822/quoteone_d7ezjr.png"
+                        src="/quoteone_d7ezjr.png"
                         width="587"
                         height="1024"
                         alt="Test"

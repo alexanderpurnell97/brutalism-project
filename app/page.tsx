@@ -57,7 +57,7 @@ export default function Home() {
                     </h3>
                 </div>
                 <CldImage
-                    src="https://res.cloudinary.com/ddwodwpr5/image/upload/v1738074193/pexels-olgalioncat-7245554_uvc6fv.jpg"
+                    src="/pexels-olgalioncat-7245554_uvc6fv.jpg"
                     width="480"
                     height="720"
                     alt="Test"

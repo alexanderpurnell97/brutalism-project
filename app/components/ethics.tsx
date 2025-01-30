@@ -10,7 +10,7 @@ export default function Ethics() {
     return (
         <div className="overflow-x-auto w-[1500px] h-screen flex">
             <CldImage
-                src="https://res.cloudinary.com/ddwodwpr5/image/upload/v1738163770/ethics_mifis0.png"
+                src="/ethics_mifis0.png"
                 width="506"
                 height="1024"
                 alt="Test"

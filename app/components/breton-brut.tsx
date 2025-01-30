@@ -39,7 +39,7 @@ export default function BretonBrut() {
                     </p>
                 </div>
                 <CldImage
-                    src="https://res.cloudinary.com/ddwodwpr5/image/upload/v1738085039/brutalism-2.png"
+                    src="/brutalism-2.png"
                     width="500"
                     height="371"
                     alt="Test"
